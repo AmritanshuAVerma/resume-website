@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Amritanshu Verma - D&T Analyst II, Software Engineer, Ethical Hacking Expert">
+    <title>Amritanshu Verma - D&T Analyst II | Software Engineer</title>    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #3b82f6;
+            --background-color: #f0f5ff;
+            --text-color: #1e293b;
+            --section-spacing: 2rem;
+            --border-radius: 12px;
+            --transition: all 0.3s ease;
+        }
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            letter-spacing: 0.3px;
+        }
+          header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+        
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+        
+        .section {
+            background: white;
+            padding: 2.5rem;
+            margin-bottom: var(--section-spacing);
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            transition: var(--transition);
+        }
+        
+        .section:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+        }
+          .section h2 {
+            color: var(--primary-color);
+            font-size: 1.8rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            position: relative;
+            padding-bottom: 0.5rem;
+        }
+        
+        .section h2::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 50px;
+            height: 3px;
+            background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+            border-radius: 2px;
+        }
+
+        /* Certifications and Education styling */
+        .certifications li, .education li {
+            padding: 1rem 1.5rem;
+            margin-bottom: 1rem;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: var(--border-radius);
+            border: 1px solid rgba(0, 0, 0, 0.05);
+            transition: var(--transition);
+        }
+
+        .certifications li:hover, .education li:hover {
+            background: white;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            transform: translateX(5px);
+        }
+
+        .education li h3 {
+            color: var(--primary-color);
+            font-size: 1.2rem;
+            margin-bottom: 0.3rem;
+        }
+
+        .education li p {
+            margin: 0.2rem 0;
+            color: var(--text-color);
+        }
+
+        .education li .duration {
+            color: #64748b;
+            font-size: 0.9rem;
+            font-style: italic;
+        }
+
+        /* Smooth scrolling and selection styling */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        ::selection {
+            background: var(--secondary-color);
+            color: white;
+        }
+
+        /* Animation for sections */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .section {
+            animation: fadeInUp 0.5s ease-out;
+        }
+        
+        .contact-info, .skills, .certifications, .languages, .experience, .education {
+            list-style-type: none;
+            padding: 0;
+        }
+          .contact-info li, .skills li, .certifications li, .languages li {
+            margin-bottom: 1rem;
+            padding: 0.5rem;
+            border-radius: var(--border-radius);
+            transition: var(--transition);
+        }
+        
+        .contact-info li:hover, .skills li:hover, .certifications li:hover, .languages li:hover {
+            background: rgba(59, 130, 246, 0.05);
+        }
+        
+        .contact-info li {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+          .experience-item {
+            margin-bottom: 3rem;
+            padding: 1.5rem;
+            border-radius: var(--border-radius);
+            background: rgba(255, 255, 255, 0.8);
+            border: 1px solid rgba(0, 0, 0, 0.05);
+            transition: var(--transition);
+        }
+        
+        .experience-item:hover {
+            background: white;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        }
+        
+        .experience-item h3 {
+            color: var(--primary-color);
+            margin-bottom: 0.5rem;
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+        
+        .experience-item .role {
+            color: var(--secondary-color);
+            font-weight: 500;
+            font-size: 1.1rem;
+            margin: 0.5rem 0;
+        }
+        
+        .experience-item .duration {
+            color: #64748b;
+            font-style: italic;
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+        
+        .experience-item ul {
+            margin-top: 1rem;
+            padding-left: 1.5rem;
+            list-style-type: circle;
+        }
+        
+        .experience-item ul li {
+            margin-bottom: 0.5rem;
+            line-height: 1.5;
+        }
+          .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+        
+        .skill-category {
+            margin-bottom: 2rem;
+            padding: 1.5rem;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: var(--border-radius);
+            border: 1px solid rgba(0, 0, 0, 0.05);
+            transition: var(--transition);
+        }
+        
+        .skill-category:hover {
+            background: white;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            transform: translateY(-2px);
+        }
+        
+        .skill-category h3 {
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+            font-size: 1.2rem;
+            font-weight: 600;
+            position: relative;
+            padding-bottom: 0.5rem;
+        }
+        
+        .skill-category h3::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 30px;
+            height: 2px;
+            background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+            border-radius: 2px;
+        }
+        
+        a {
+            color: var(--secondary-color);
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Amritanshu Verma</h1>
+        <p>D&T Analyst II - International Trade @ General Mills India</p>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>Contact</h2>
+            <ul class="contact-info">                <li>📍 403 Gaurav Malhar, Gaurav Garden, Kandivali West, Mumbai 400067</li>
+                <li>📱 Mobile: 09920716258</li>
+                <li>📧 Email: amritanshuverma1993@gmail.com</li>
+                <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/amritanshu-verma" target="_blank">www.linkedin.com/in/amritanshu-verma</a></li>
+            </ul>
+        </div>        <div class="section">
+            <h2>Professional Summary</h2>
+            <p>Senior Software Engineer and D&T Analyst II with 8+ years of experience in full-stack development, cloud computing, and cybersecurity. Expertise in .NET ecosystem, AWS, and Azure cloud platforms. Proven track record in implementing secure software solutions, optimizing business processes, and leading successful project deliveries using Agile methodologies. Certified in ethical hacking, business analysis, and cloud platforms (AWS ACCP, Azure AZ900).</p>
+        </div>
+        <div class="section">
+            <h2>Technical Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>Programming Languages & Frameworks</h3>
+                    <ul class="skills">
+                        <li>C# / .NET Core / ASP.NET MVC</li>
+                        <li>React.JS / AngularJS</li>
+                        <li>Python (ML.NET)</li>
+                        <li>SQL (SQL Server 2008R2, MySQL)</li>
+                    </ul>
+                </div>
+                <div class="skill-category">
+                    <h3>Cloud & DevOps</h3>
+                    <ul class="skills">
+                        <li>AWS EC2, AWS Cloud Services</li>
+                        <li>Azure Cloud Platform</li>
+                        <li>GitHub Pipelines / CI/CD</li>
+                        <li>Veracode Security Implementation</li>
+                    </ul>
+                </div>
+                <div class="skill-category">
+                    <h3>Specialized Skills</h3>
+                    <ul class="skills">
+                        <li>Ethical Hacking & Cybersecurity</li>
+                        <li>Business Analysis & Process Optimization</li>
+                        <li>Agile & Scrum Methodologies</li>
+                        <li>Data Analytics & Visualization</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <h2>Languages</h2>
+            <ul class="languages">
+                <li>English (Professional Working)</li>
+                <li>Hindi (Native or Bilingual)</li>
+                <li>Marathi (Native or Bilingual)</li>
+            </ul>
+        </div>        <div class="section">
+            <h2>Certifications</h2>
+            <ul class="certifications">
+                <li>Azure Fundamentals (AZ-900)</li>
+                <li>AWS Certified Cloud Practitioner (ACCP)</li>
+                <li>Ethical Hacking Certification</li>
+                <li>Business Analysis Certified Professional (BACP)</li>
+                <li>Agile Business Analyst Certification</li>
+                <li>Lean Six Sigma White Belt</li>
+                <li>Scrum Agile Project Delivery</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Honors & Awards</h2>
+            <ul>
+                <li>Rising Star Award (2016) - Recognition for exceptional performance and innovation</li>
+                <li>Employee Of the Quarter - Multiple awards for outstanding project delivery</li>
+                <li>DXC Champion - Distinguished for technical excellence and leadership</li>
+            </ul>
+        </div><div class="section">
+            <h2>Professional Experience</h2>
+            <div class="experience">
+                <div class="experience-item">
+                    <h3>General Mills India</h3>
+                    <p class="role">D&T Analyst II - International Trade</p>
+                    <p class="duration">February 2024 - Present | Mumbai, Maharashtra, India</p>
+                    <ul>
+                        <li>Lead data and business analysis initiatives for international trade operations</li>
+                        <li>Drive process optimization and efficiency improvements using Agile methodologies</li>
+                        <li>Collaborate with cross-functional teams to implement trade process improvements</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <h3>Dost Initiative</h3>
+                    <p class="role">Co-Founder</p>
+                    <p class="duration">September 2023 - Present | Mumbai, Maharashtra, India</p>
+                    <ul>
+                        <li>Lead strategic partnerships and business development initiatives</li>
+                        <li>Implement ethical hacking and security best practices</li>
+                        <li>Drive innovation and quality outcomes in project delivery</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <h3>DXC Technology</h3>
+                    <p class="role">Professional 1 Application Delivery</p>
+                    <p class="duration">December 2021 - September 2023 | India</p>
+                    <ul>
+                        <li>Led .NET project for Zurich NA in the insurance sector</li>
+                        <li>Implemented AWS EC2 instances for API migration</li>
+                        <li>Resolved 456 security issues using Veracode within 6 months</li>
+                        <li>Implemented GitHub pipelines for continuous integration</li>
+                        <li>Earned AZ900(AZURE) and ACCP(AWS) certifications</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <h3>ScribeEMR Systems Private Limited</h3>
+                    <p class="role">Software Developer</p>
+                    <p class="duration">November 2020 - September 2021 | Bengaluru, Karnataka, India</p>
+                    <ul>
+                        <li>Developed healthcare products using AWS and AI/ML stack</li>
+                        <li>Implemented ML.NET and ASP.NET MVC solutions</li>
+                        <li>Created and optimized ML model pipelines</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <h3>Xanthus Software Solutions</h3>
+                    <p class="role">Software Consultant</p>
+                    <p class="duration">August 2018 - September 2020 | Mumbai, Maharashtra, India</p>
+                    <ul>
+                        <li>Led ASP.NET to .NET Core migration projects</li>
+                        <li>Improved system performance and scalability</li>
+                        <li>Managed project modules and resource allocation</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <h3>Infinx Services</h3>
+                    <p class="role">Software Engineer I</p>
+                    <p class="duration">April 2016 - August 2018 | Mumbai</p>
+                    <ul>
+                        <li>Developed Activity Tracker system resulting in 40% productivity increase</li>
+                        <li>Enhanced HRMS application performance by 20%</li>
+                        <li>Implemented SAP solutions for AIR INDIA SATS</li>
+                        <li>Created HIPAA-compliant communication systems</li>
+                        <li>Utilized C#, SQL Server, SAP Fiori, and AngularJS technologies</li>
+                    </ul>
+                </div>
+            </div>
+        </div>        <div class="section">
+            <h2>Education</h2>
+            <ul class="education">
+                <li>
+                    <h3>Thakur College Of Engineering And Technology</h3>
+                    <p>Bachelor Of Engineering, Information Technology</p>
+                    <p class="duration">2011 - 2015</p>
+                </li>
+                <li>
+                    <h3>NIIT Pune</h3>
+                    <p>PGDIT, Computer Software Engineering</p>
+                    <p class="duration">September 2015 - April 2016</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
