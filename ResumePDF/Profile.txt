@@ -1,0 +1,230 @@
+   
+Contact
+403 Gaurav Malhar ,Gaurav
+Garden ,Kandivali West , Mumbai
+400067
+09920716258  (Mobile)
+amritanshuverma1993@gmail.c
+om
+www.linkedin.com/in/amritanshu-
+verma  (LinkedIn)
+Top Skills
+Ethical Hacking
+Phishing
+Social Engineering
+Languages
+English  (Professional Working)
+Hindi  (Native or Bilingual)
+Marathi  (Native or Bilingual)
+Certifications
+Ethical Hacking
+Business Analysis Certified
+Professional
+Basics Of Scrum Agile and Project
+Delivery
+Agile Business Analyst
+Lean Six Sigma White Belt
+Certification
+Honors-Awards
+Rising Star For the Year 2016
+Employee Of the Quarter 
+DXC ChampAmritanshu Verma
+D&T Analyst II - International Trade @ General Mills India | Ethical
+Hacking, Phishing, Social Engineering
+Mumbai, Maharashtra, India
+Summary
+At General Mills India, our team is dedicated to refining international
+trade operations through rigorous data and business analysis. My
+role as a D&T Analyst II pivots on driving efficiency and optimizing
+trade processes with a focus on Agile methodologies. This involves
+a collaborative approach where my computer software engineering
+education from NIIT Pune and my engineering background from
+Thakur College of Engineering and Technology underpin my
+analytical competencies.
+As a co-founder, I leverage my insights in ethical hacking and
+business analysis to foster strategic partnerships and propel our
+venture's growth. My team's efforts have been recognized with
+multiple honors, reflecting our commitment to customer satisfaction
+and project excellence. Our ability to deliver seamless project
+execution and to exceed client expectations is a testament to our
+dedication to innovation and quality outcomes.
+Experience
+General Mills India
+D&T Analyst II - International Trade
+February 2024 - Present  (1 year 1 month)
+Mumbai, Maharashtra, India
+Contributing to Data / Business analysis for the International Trade team.
+Dost Initiative
+Co-Founder
+September 2023 - Present  (1 year 6 months)
+Mumbai, Maharashtra, India
+DXC Technology
+Professional 1 Application Delivery
+December 2021 - September 2023  (1 year 10 months)
+  Page 1 of 4   
+India
+Ensured seamless project execution and delivered exceptional results within
+set timelines.
+Conducted analysis and gave recommendations for moving .NET API to AWS
+EC2 instances.
+Fostered collaborative partnerships with clients & stakeholders, effectively
+capturing business requirements and transforming them into tangible project
+strategies.
+Conducted a thorough analysis of existing business processes, identifying
+areas for improvement and implementing effective solutions.
+Employed Agile methodologies and Scrum frameworks to efficiently manage
+project timelines, driving successful project completion.
+Effectively conveyed project progress and updates to clients, stakeholders,
+and team members, fostering alignment and transparency throughout the
+project lifecycle.
+Led .NET project for Zurich NA in the insurance sector, overseeing the end-to-
+end development process and effectively resolving ServiceNow tickets.
+Successfully completed comprehensive training in React.JS and .NET Core.
+Effectively implemented robust security measures utilizing the Veracode tool,
+resulting in the resolution of 456 identified issues within a span of 6 months.
+Conducted thorough research and meticulously documented the seamless
+implementation of GitHub pipelines for ongoing projects.
+Earned certifications in AZ900(AZURE) and ACCP(AWS)
+ScribeEMR Systems Private Limited
+Software Developer
+November 2020 - September 2021  (11 months)
+Bengaluru, Karnataka, India
+Conducted research and development on healthcare products using AWS and
+AI/ML stack, including ML.NET and ASP.NET MVC.
+Created datasets and pipelines for training ML models, improving the accuracy
+and effectiveness of AI solutions integrated into existing systems.
+Xanthus Software Solutions
+Software Consultant
+August 2018 - September 2020  (2 years 2 months)
+Mumbai, Maharashtra, India
+Developed and improved software for clients, focusing on UX and architecture.
+Led the successful migration of ASP.NET applications to .NET Core, resulting
+in improved system performance and scalability.
+  Page 2 of 4   
+Managed project modules, conducted resource hiring, and implemented
+timesheet management, ensuring efficient project execution and resource
+utilization.
+Infinx Services
+Software Engineer I
+April 2016 - August 2018  (2 years 5 months)
+Mumbai
+Activity Tracker:
+Developed a comprehensive Activity Tracker system that monitored and
+analyzed employee activities across the organization, resulting in a remarkable
+40% increase in overall productivity and a significant boost in client satisfaction
+by 50%. Utilized technologies such as C#, WinForm, WebForm, Analytics,
+Dashboard, KPI, and SQL Server 2008R2.
+Created BRD , FRD and RACI matrix for project implementation. Conducted
+Requirement eleicitation sessions with all levels of StakeHolders.
+mPower: HRMS Application
+Enhanced the efficiency of the HRMS application by improving the salary
+generation speed by 20%. Employed technologies such as C#, WebForm,
+Analytics, Dashboard, KPI, and SQL Server 2008R2.
+SAP Implementation for AIR INDIA SATS
+Contributed to the successful SAP implementation for AIR INDIA SATS using
+technologies such as C#, ASP.NET MVC, AngularJS (1), SAP Fiori, and HANA
+as the database.
+RADNET: Business Intelligence Evaluation
+Evaluated BI products PowerBI and Tableau, setting up hosting servers
+and implementing common dashboards in both systems to enhance data
+visualization and decision-making processes.
+HIPAA Compliant Email System
+Implemented a secure communication system using hMailServer and PHP
+with MySql and MS SQL Server 2008R2, significantly enhancing the internal
+communication security.
+Education
+Thakur Collage Of Engineering And Technology
+Bachlor Of Engineering, I.T  · (2011 - 2015)
+NIIT Pune
+PGDIT, Computer Software Engineering  · (September 2015 - April 2016)
+
+
+Experience
+General Mills India
+D&T Analyst II - International Trade
+February 2024 - Present (1 year 1 month)
+Mumbai, Maharashtra, India
+Contributing to Data / Business analysis for the International Trade team.
+Dost Initiative
+Co-Founder
+September 2023 - Present (1 year 6 months)
+Mumbai, Maharashtra, India
+DXC Technology
+Professional 1 Application Delivery
+December 2021 - September 2023 (1 year 10 months)
+Page 1 of 4
+India
+Ensured seamless project execution and delivered exceptional results within
+set timelines.
+Conducted analysis and gave recommendations for moving .NET API to AWS
+EC2 instances.
+Fostered collaborative partnerships with clients & stakeholders, effectively
+capturing business requirements and transforming them into tangible project
+strategies.
+Conducted a thorough analysis of existing business processes, identifying
+areas for improvement and implementing effective solutions.
+Employed Agile methodologies and Scrum frameworks to efficiently manage
+project timelines, driving successful project completion.
+Effectively conveyed project progress and updates to clients, stakeholders,
+and team members, fostering alignment and transparency throughout the
+project lifecycle.
+Led .NET project for Zurich NA in the insurance sector, overseeing the end-to-
+end development process and effectively resolving ServiceNow tickets.
+Successfully completed comprehensive training in React.JS and .NET Core.
+Effectively implemented robust security measures utilizing the Veracode tool,
+resulting in the resolution of 456 identified issues within a span of 6 months.
+Conducted thorough research and meticulously documented the seamless
+implementation of GitHub pipelines for ongoing projects.
+Earned certifications in AZ900(AZURE) and ACCP(AWS)
+ScribeEMR Systems Private Limited
+Software Developer
+November 2020 - September 2021 (11 months)
+Bengaluru, Karnataka, India
+Conducted research and development on healthcare products using AWS and
+AI/ML stack, including ML.NET and ASP.NET MVC.
+Created datasets and pipelines for training ML models, improving the accuracy
+and effectiveness of AI solutions integrated into existing systems.
+Xanthus Software Solutions
+Software Consultant
+August 2018 - September 2020 (2 years 2 months)
+Mumbai, Maharashtra, India
+Developed and improved software for clients, focusing on UX and architecture.
+Led the successful migration of ASP.NET applications to .NET Core, resulting
+in improved system performance and scalability.
+Page 2 of 4
+Managed project modules, conducted resource hiring, and implemented
+timesheet management, ensuring efficient project execution and resource
+utilization.
+Infinx Services
+Software Engineer I
+April 2016 - August 2018 (2 years 5 months)
+Mumbai
+Activity Tracker:
+Developed a comprehensive Activity Tracker system that monitored and
+analyzed employee activities across the organization, resulting in a remarkable
+40% increase in overall productivity and a significant boost in client satisfaction
+by 50%. Utilized technologies such as C#, WinForm, WebForm, Analytics,
+Dashboard, KPI, and SQL Server 2008R2.
+Created BRD , FRD and RACI matrix for project implementation. Conducted
+Requirement eleicitation sessions with all levels of StakeHolders.
+mPower: HRMS Application
+Enhanced the efficiency of the HRMS application by improving the salary
+generation speed by 20%. Employed technologies such as C#, WebForm,
+Analytics, Dashboard, KPI, and SQL Server 2008R2.
+SAP Implementation for AIR INDIA SATS
+Contributed to the successful SAP implementation for AIR INDIA SATS using
+technologies such as C#, ASP.NET MVC, AngularJS (1), SAP Fiori, and HANA
+as the database.
+RADNET: Business Intelligence Evaluation
+Evaluated BI products PowerBI and Tableau, setting up hosting servers
+and implementing common dashboards in both systems to enhance data
+visualization and decision-making processes.
+HIPAA Compliant Email System
+Implemented a secure communication system using hMailServer and PHP
+with MySql and MS SQL Server 2008R2, significantly enhancing the internal
+communication security.
+Education
+Thakur Collage Of Engineering And Technology
+Bachlor Of Engineering, I.T · (2011 - 2015)
+NIIT Pune
+PGDIT, Computer Software Engineering · (September 2015 - April 2016)
